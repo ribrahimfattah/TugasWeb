@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+    <CD>
+        <TITLE>Judul : Empire Burlesque</TITLE>
+        <ARTIST>Artist : Bob Dylan</ARTIST>
+        <COUNTRY>Country : USA</COUNTRY>
+        <COMPANY>Company : Columbia</COMPANY>
+        <PRICE>Price : $10.90</PRICE>
+        <YEAR>Year : 1985</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Judul : Hide your heart</TITLE>
+        <ARTIST>Artist : Bonnie Tyler</ARTIST>
+        <COUNTRY>Country : UK</COUNTRY>
+        <COMPANY>Company : CBS record</COMPANY>
+        <PRICE>Price : $9.90</PRICE>
+        <YEAR>Year : 1988</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Judul : Greatest Hits</TITLE>
+        <ARTIST>Artist : Dolly parton</ARTIST>
+        <COUNTRY>Country : USA</COUNTRY>
+        <COMPANY>Company : RCA</COMPANY>
+        <PRICE>Price : $9.90</PRICE>
+        <YEAR>Year : 1982</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Judul : Picture book</TITLE>
+        <ARTIST>Artist : Simply Red</ARTIST>
+        <COUNTRY>Country : EU</COUNTRY>
+        <COMPANY>Company : Elektra</COMPANY>
+        <PRICE>Price : $7.20</PRICE>
+        <YEAR>Year : 1985</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Judul : Red</TITLE>
+        <ARTIST>Artist : The Coomunards</ARTIST>
+        <COUNTRY>Country : UK</COUNTRY>
+        <COMPANY>Company : London</COMPANY>
+        <PRICE>Price : $7.80</PRICE>
+        <YEAR>Year : 1987</YEAR>
+    </CD>
+    <CD>
+        <TITLE>Judul : Unchain my heart</TITLE>
+        <ARTIST>Artist : Joe Cocker</ARTIST>
+        <COUNTRY>Country : USA</COUNTRY>
+        <COMPANY>Company : EMI</COMPANY>
+        <PRICE>Price : $8.20</PRICE>
+        <YEAR>Year : 1987</YEAR>
+    </CD>
+</CATALOG>

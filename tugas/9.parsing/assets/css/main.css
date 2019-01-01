@@ -1,0 +1,75 @@
+body
+    {
+        font-family: sans-serif
+    }
+a h1
+    {
+        color: black
+    }
+
+img
+    {
+        width: 220px;
+        height: 218px
+    }
+
+a
+    {
+        text-decoration: none
+    }
+
+.tombol
+    {
+        width: 7vw;
+        height: 2vw;
+        border-radius: 5px;
+        background: aqua;
+        padding-top: 7px;
+        color: black
+    }
+
+.panel-utama
+    {
+        position:relative;
+        text-align:center;
+        width:100%;
+        margin-bottom: 10px;
+    }
+    
+.tengah
+    {
+        display: inline-block;
+        margin: 0 auto;
+        padding-bottom: 30px
+    }
+
+#container
+    {
+        min-width: 100%;
+        position: relative;
+    }
+
+.detail
+    {
+        float:left;
+        text-align:left;
+        margin: 1em 1em 3em 1em
+    }
+
+.back
+	{
+		float: right;
+		width: 7vw;
+		height: 2vw;
+		background: tomato;
+		border: solid;
+		border-color: #000000;
+        border-radius: 5px;
+        padding-top: 0;
+        padding-bottom: 15px
+    }
+    
+a .back
+	{
+		color: #000000
+	}
